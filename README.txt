@@ -10,6 +10,5 @@ thire line changes
 Updateing readme with new information.
 
 sharing remotely is fun and easy
-Add feature2
-feature2 update
-add another fix
+fix bug 1234
+feature 2 added again
