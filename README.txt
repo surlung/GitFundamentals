@@ -7,3 +7,4 @@ thire line changes
 Updateing readme with new information.
 
 sharing remotely is fun and easy
+fix bug 1234
